@@ -1,0 +1,102 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Lacey Washington, My journey into software development started out of necessity – I needed to support my mom and break free from a tough financial spot. Fueled by sheer determination, I jumped into coding through a software development program, thanks to a full-ride scholarship. Navigating algorithms and solving problems creatively quickly turned into passion of mine – it's been a mix of fun and frustration, but I wouldn't have it any other way. My former job as a pharmacy tech injected some customer service skills and empathy into my toolkit, making my soft-skills even stronger for my future tech career, turning me into a problem-solving ninja with some adaptability and quick learning on the side.  I began to enjoy using tech to make life better for everyone, no matter what they're dealing with. I’m the top problem solver you've been waiting for, ready to bring my unique mix of skills to the table so, Let's make a difference together. If you think I can make a good addtion to your team please take a look at my resume on either linkedIn or github to contact me. Thanks!😎",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills and tools",
+      "experience": "Education"
+    }
+  },
+  "projects": [
+    {
+      "title": "E-comm Server w/ Loopback",
+      "startDate": "2023",
+      "description": "My first app utilizing unfamiliar technologies such as the Loopback 4 framework and dove headfirst into TypeScript for a smoother ride in developing the backend of an e-commerce site. In collaboration with two other classmates. We used a PostgreSQL database, juggling an extensive data model with out-of-the-box user authentication. My job was mostly Integrating testing using Jest  and getting the site up for deployment. So far the site is still being developed for more features by me in the coming future",
+      "images": [
+        "images/portfolio/ecomm/ecomm-home.png",
+        "images/portfolio/ecomm/backend-test-page.png"
+      ],
+      "url": "https://mo-bats-backend.onrender.com",
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Store-Front",
+      "startDate": "2023",
+      "description": "Delved into a personal study project where I dived deep into React Redux. Managed complex states and jazzed it up with some slick async thunk CRUD magic, smoothly pulling in images from a dummy JSON API. Just a cool project that shows off my knack for frontend tech and handling tricky app setups!",
+      "images": [
+        "images/portfolio/storeFront/homePage-storeFront.png",
+        "images/portfolio/storeFront/beauty-storefront.png"
+      ],
+      "url": "https://dynamic-storefront.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Movie Maddness",
+      "startDate": "2015",
+      "description": "In my very first project, I ventured into independent coding after a three months of hands-on experience with JavaScript. I teamed up with three collaborators, taking the lead in crafting data structures and functionalities.",
+      "images": [
+        "images/portfolio/movieMadness/home.png",
+        "images/portfolio/movieMadness/gamePage1.png",
+        "images/portfolio/movieMadness/gamePage2.png"
+      ],
+      "url": "https://syntaxsorcerers.github.io/movie-madness/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Code Fellows",
+      "title": "Advanced Software Development",
+      "years": "12.2023",
+      "mainTech": [
+        "React",
+        "Node"
+      ],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Bootstrap",
+        "MongoDb",
+        "Express",
+        "React Native",
+        "AWS",
+        "TypeScript",
+        "PostgreSQL",
+        "C-sharp",
+        "Docker"
+      ]
+    },
+    {
+      "company": "Trinindad State Jr. College",
+      "title": "Applied Science",
+      "years": "09.2015",
+      "mainTech": [],
+      "technologies": []
+    }
+  ]
+}

@@ -39,7 +39,6 @@ class Footer extends Component {
               <div 
                 onClick={() =>
                   this.props.applyPickedLanguage(
-                    window.$secondaryLanguage,
                     window.$primaryLanguageIconId
                   )
                 }
